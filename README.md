@@ -8,4 +8,4 @@
 * [唯尚广告联盟-CPA广告联盟,CPA联盟,日付广告联盟,手机APP推广联盟](https://www.visvn.cn/index.php?e=index)
  
 ### 政府
-* [公安机关互联网站安全管理服务平台](http://www.beian.gov.cn/portal/index.do)
+* ![icon](https://www.beian.gov.cn/img/ico.ico)[公安机关互联网站安全管理服务平台](http://www.beian.gov.cn/portal/index.do)
