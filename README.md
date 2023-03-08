@@ -2,7 +2,7 @@
 
 ### G
 * ![icon](https://www.beian.gov.cn/img/ico.ico)[公安机关互联网站安全管理服务平台](http://www.beian.gov.cn/portal/index.do)
-* ![icon](https://www.ghxi.com/favicon.ico)[果核剥壳 - 互联网的净土](https://www.ghxi.com)
+* <img src="https://www.ghxi.com/favicon.ico" width="16px">[果核剥壳 - 互联网的净土](https://www.ghxi.com)
 
 
 ### J
