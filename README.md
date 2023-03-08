@@ -35,6 +35,7 @@
 
 ### <span id="I">I</span>
 * <img src="https://beian.miit.gov.cn/favicon.ico" width="16px">[ICP/IP地址/域名信息备案管理系统](https://beian.miit.gov.cn/#/home)
+![icon](https://itchat.readthedocs.io/zh/latest/img/favicon.ico)[项目简介 - itchat](https://itchat.readthedocs.io/zh/latest)
 
 ### <span id="J">J</span>
 * ![icon](https://js13kgames.com/img/favicon.png)[js13kGames - HTML5 and JavaScript Game Development Competition in just 13 kilobytes](https://js13kgames.com/)
