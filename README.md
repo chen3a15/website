@@ -68,6 +68,7 @@
 ### <span id="S">S</span>
 * <img src="https://www.scode1.com/template/Ming2/images/favicon.ico" width="16px">[Scode源码站-源码网|网站源码|站长资讯|站长源码|站长工具|游戏源码|SEO教程|建站教程|SCODE1.COM](https://www.scode1.com/)
 * <img src="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png" width="16px">[三星电子 中国 | 三星手机 | 电视 | 显示器 固态硬盘 | 冰箱 洗衣机等产品官网](https://www.samsung.com/cn)
+* <img src="https://shumeipai.nxez.com/favicon.ico" width="16px">[树莓派实验室 | Raspberry Pi中文资讯站，提供丰富的树莓派使用教程和DIY资讯](https://shumeipai.nxez.com)
 
 ### <span id="T">T</span>
 * 
