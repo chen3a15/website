@@ -63,7 +63,7 @@
 * 
 
 ### <span id="R">R</span>
-* 
+* <img src="https://www.raspberrypi.com/app/uploads/2021/10/cropped-Raspberry-Pi-Favicon-100x100-1-32x32.png" width="16px">[Raspberry Pi](https://www.raspberrypi.com/)
 
 ### <span id="S">S</span>
 * <img src="https://www.scode1.com/template/Ming2/images/favicon.ico" width="16px">[Scode源码站-源码网|网站源码|站长资讯|站长源码|站长工具|游戏源码|SEO教程|建站教程|SCODE1.COM](https://www.scode1.com/)
