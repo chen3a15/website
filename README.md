@@ -66,6 +66,7 @@
 
 ### <span id="S">S</span>
 * <img src="https://www.scode1.com/template/Ming2/images/favicon.ico" width="16px">[Scode源码站-源码网|网站源码|站长资讯|站长源码|站长工具|游戏源码|SEO教程|建站教程|SCODE1.COM](https://www.scode1.com/)
+* <img src="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png" width="16px">[三星电子 中国 | 三星手机 | 电视 | 显示器 固态硬盘 | 冰箱 洗衣机等产品官网](https://www.samsung.com/cn)
 
 ### <span id="T">T</span>
 * 
