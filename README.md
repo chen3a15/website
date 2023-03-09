@@ -59,6 +59,7 @@
 
 ### <span id="P">P</span>
 * ![icon](https://www.uupoop.com/favicon.ico)[【在线PS软件】在线PS图片（照片）处理工具_在线制作编辑图片ps精简版](https://www.uupoop.com/#/)
+* <img src="https://www.python.org/static/favicon.ico" width="16px">[Welcome to Python.org](https://www.python.org)
 
 ### <span id="Q">Q</span>
 * 
